@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>初级程序员学习路线</title>
+    <url>/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
+    <content><![CDATA[<h5 id="一、编程语言基础"><a href="#一、编程语言基础" class="headerlink" title="一、编程语言基础"></a>一、编程语言基础</h5><ul>
+<li>《C Primer Plus》</li>
+<li>《C++ Primer Plus》</li>
+<li>《Java 核心编程》</li>
+<li>《Python 核心编程》<a id="more"></a>
+</li>
+</ul>
+<hr>
+<h5 id="二、数据结构与算法"><a href="#二、数据结构与算法" class="headerlink" title="二、数据结构与算法"></a>二、数据结构与算法</h5><ul>
+<li>《大话数据结构》</li>
+<li>《算法》（第四版 红色）</li>
+</ul>
+<hr>
+<h5 id="三、计算机网络与系统"><a href="#三、计算机网络与系统" class="headerlink" title="三、计算机网络与系统"></a>三、计算机网络与系统</h5><ul>
+<li>《计算机网络自顶向下》</li>
+<li>《深入理解计算机系统》</li>
+</ul>
+<hr>
+<h5 id="四、数据库与Linux"><a href="#四、数据库与Linux" class="headerlink" title="四、数据库与Linux"></a>四、数据库与Linux</h5><ul>
+<li>《MYSQL 必知必会》</li>
+<li>《鸟哥的 Linux 私房菜》</li>
+<li>《Unix 环境高级编程》</li>
+</ul>
+<hr>
+<h5 id="五、Spring框架"><a href="#五、Spring框架" class="headerlink" title="五、Spring框架"></a>五、Spring框架</h5><ul>
+<li>《Spring 实战》</li>
+<li>《Spring Boot 实战》</li>
+<li>《Spring 技术内幕》</li>
+</ul>
+<hr>
+<h5 id="六、进阶"><a href="#六、进阶" class="headerlink" title="六、进阶"></a>六、进阶</h5><ul>
+<li>《大话设计模式》</li>
+<li>《重构 改善既有代码的设计》</li>
+</ul>
+<hr>
+<h5 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h5><p><img src="https://i.loli.net/2020/04/09/7HMjcrLGJQ4Insz.png" alt="学习路线.png"></p>
+<hr>
+<h5 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h5><ul>
+<li><a href="https://www.bilibili.com/video/BV1G7411K7j2/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1G7411K7j2/</a><br></li>
+<li><a href="https://www.bilibili.com/video/BV1kJ411W7pi/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1kJ411W7pi/</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>自学</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+</search>
