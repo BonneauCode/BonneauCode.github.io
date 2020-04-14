@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>初级程序员学习路线</title>
+    <title>计算机初学者学习路线</title>
     <url>/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
     <content><![CDATA[<h5 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h5><ul>
-<li>看了羊哥的视频，整理出一份书单，规划好了自己的学习路线</li>
+<li>看了羊哥的视频，整理出一份书单，规划一下学习路线</li>
+<li>文中罗列的书单皆为必学，完整书单见思维导图</li>
 <li>学习计算机编程，任重而道远，加油，奥里给！<a id="more"></a>
 </li>
 </ul>
@@ -43,7 +44,7 @@
 <li>《重构 改善既有代码的设计》</li>
 </ul>
 <hr>
-<h5 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h5><p><img src="https://i.loli.net/2020/04/09/7HMjcrLGJQ4Insz.png" alt="学习路线.png"></p>
+<h5 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h5><p><a href="https://imgchr.com/i/J99vng" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/04/15/J99vng.md.png" alt="J99vng.md.png"></a></p>
 <hr>
 <h5 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h5><ul>
 <li><a href="https://www.bilibili.com/video/BV1G7411K7j2/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1G7411K7j2/</a><br></li>
@@ -55,129 +56,7 @@
       </categories>
       <tags>
         <tag>学习路线</tag>
-        <tag>自学编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>考研复习规划（暂定）</title>
-    <url>/2020/04/13/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ul>
-<li>思来想去专业课还是准备考408<ul>
-<li>这四门课对于学习计算机来说太重要了</li>
-<li>408是统考科目，资料众多，招生学校比较多</li>
-<li>408难度较大，报的人相比其他专业课人少点</li>
-<li>这几年好多学校临时改考408</li>
-</ul>
-</li>
-</ul>
-<hr>
-<a id="more"></a>
-<h1 id="基础阶段（4月-6月）"><a href="#基础阶段（4月-6月）" class="headerlink" title="基础阶段（4月-6月）"></a>基础阶段（4月-6月）</h1><h2 id="数学二"><a href="#数学二" class="headerlink" title="数学二"></a>数学二</h2><ul>
-<li>李正元全书高数部分 <ul>
-<li>第一遍：复习知识点、做例题</li>
-<li>第二遍：攻克难点、做习题</li>
-</ul>
-</li>
-</ul>
-<h2 id="专业课"><a href="#专业课" class="headerlink" title="专业课"></a>专业课</h2><ul>
-<li>C Primer Plus<ul>
-<li>上机练习</li>
-</ul>
-</li>
-<li>王道数据结构<ul>
-<li>刷leetcode题库</li>
-</ul>
-</li>
-<li>王道计算机网络</li>
-</ul>
-<h2 id="英语二"><a href="#英语二" class="headerlink" title="英语二"></a>英语二</h2><ul>
-<li>红宝书单词<ul>
-<li>第一轮：听读音、记大致词义</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h1 id="强化阶段（7月-8月）"><a href="#强化阶段（7月-8月）" class="headerlink" title="强化阶段（7月-8月）"></a>强化阶段（7月-8月）</h1><h2 id="数学二-1"><a href="#数学二-1" class="headerlink" title="数学二"></a>数学二</h2><ul>
-<li>李正元全书高数部分<ul>
-<li>第三遍：整理错题，总结知识点</li>
-</ul>
-</li>
-<li>李永乐线性代数讲义<ul>
-<li>第一遍：复习知识点、做例题</li>
-<li>第二遍：做习题、总结各章的联系</li>
-</ul>
-</li>
-</ul>
-<h2 id="专业课-1"><a href="#专业课-1" class="headerlink" title="专业课"></a>专业课</h2><ul>
-<li>王道操作系统</li>
-<li>王道计算机组成原理<ul>
-<li>两门课同时开始，不同角度对比理解</li>
-</ul>
-</li>
-</ul>
-<h2 id="英语二-1"><a href="#英语二-1" class="headerlink" title="英语二"></a>英语二</h2><ul>
-<li>红宝书单词<ul>
-<li>第二轮：记词性、完整词义</li>
-</ul>
-</li>
-<li>唐迟阅读<ul>
-<li>做2010-2018年真题阅读，听唐叔阅读课</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h1 id="冲刺阶段（9月-考试）"><a href="#冲刺阶段（9月-考试）" class="headerlink" title="冲刺阶段（9月-考试）"></a>冲刺阶段（9月-考试）</h1><h2 id="数学二-2"><a href="#数学二-2" class="headerlink" title="数学二"></a>数学二</h2><ul>
-<li>历年真题<ul>
-<li>刷三遍，数二真题非常重要！！！</li>
-</ul>
-</li>
-<li>各种模拟卷</li>
-</ul>
-<h2 id="专业课-2"><a href="#专业课-2" class="headerlink" title="专业课"></a>专业课</h2><ul>
-<li>王道408历年真题及思路分析<ul>
-<li>刷三遍，408真题非常重要！！！</li>
-</ul>
-</li>
-<li>王道408最后八套模拟卷</li>
-</ul>
-<h2 id="英语二-2"><a href="#英语二-2" class="headerlink" title="英语二"></a>英语二</h2><ul>
-<li>红宝书<ul>
-<li>第三轮：记短语、用法拓展</li>
-</ul>
-</li>
-<li>历年真题<ul>
-<li>完完整整刷三遍</li>
-</ul>
-</li>
-<li>背作文模板</li>
-</ul>
-<h2 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h2><ul>
-<li>1000题<ul>
-<li>只做选择题</li>
-</ul>
-</li>
-<li>肖八<ul>
-<li>只做选择题</li>
-</ul>
-</li>
-<li>肖四<ul>
-<li>熟背分析题</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h1 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h1><p><img src="https://s1.ax1x.com/2020/04/13/GviLIP.png" alt="GviLIP.png"></p>
-<hr>
-<h1 id="考研寄语"><a href="#考研寄语" class="headerlink" title="考研寄语"></a>考研寄语</h1><blockquote>
-<p><strong>&ensp;&ensp;&ensp;&ensp;考研就像在黑屋子里洗衣服。你不知道洗干净了没有，只能一遍一遍去洗。等上了考场的那一刻，灯亮了。你发现，有的人忘了加洗衣粉，有的人用的是洗衣机。但只要你认真洗过了每一个地方，那件衣服一定是光亮如新的。而你以后每次穿这件衣服时都会想起这段岁月。</strong></p>
-</blockquote>
-<p><a href="https://imgchr.com/i/GvKDBT" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/04/13/GvKDBT.jpg" alt="GvKDBT.jpg"></a></p>
-]]></content>
-      <categories>
-        <category>考研</category>
-      </categories>
-      <tags>
-        <tag>考研</tag>
+        <tag>自学</tag>
       </tags>
   </entry>
 </search>

@@ -1,62 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>盛瑞波的个人博客</title>
+  <title>BonneauCode&#39;s blog</title>
   
   <subtitle>何必仰望他人 自己亦是风景</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bonneaucode.cn/"/>
-  <updated>2020-04-14T02:21:58.043Z</updated>
+  <updated>2020-04-14T23:35:26.595Z</updated>
   <id>http://bonneaucode.cn/</id>
   
   <author>
-    <name>盛瑞波</name>
+    <name>BonneauCode</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>考研复习规划（暂定）</title>
-    <link href="http://bonneaucode.cn/2020/04/13/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/"/>
-    <id>http://bonneaucode.cn/2020/04/13/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</id>
-    <published>2020-04-13T09:47:31.000Z</published>
-    <updated>2020-04-14T02:21:58.043Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;思来想去专业课还是准备考408&lt;ul&gt;
-&lt;li&gt;这四门课对于学习计算机来说太重要了&lt;/li&gt;
-&lt;li&gt;408是统考科目，资料众多，招生学校比较多&lt;/li&gt;
-&lt;li&gt;408难度较大，报的人相比其他专业课人少点&lt;/li&gt;
-&lt;li&gt;这几年好多学校临时改考408&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-    
-    </summary>
-    
-    
-      <category term="考研" scheme="http://bonneaucode.cn/categories/%E8%80%83%E7%A0%94/"/>
-    
-    
-      <category term="考研" scheme="http://bonneaucode.cn/tags/%E8%80%83%E7%A0%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>初级程序员学习路线</title>
+    <title>计算机初学者学习路线</title>
     <link href="http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
     <id>http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</id>
     <published>2020-04-12T07:00:00.000Z</published>
-    <updated>2020-04-14T01:22:00.495Z</updated>
+    <updated>2020-04-14T23:35:26.595Z</updated>
     
     <summary type="html">
     
       &lt;h5 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;看了羊哥的视频，整理出一份书单，规划好了自己的学习路线&lt;/li&gt;
+&lt;li&gt;看了羊哥的视频，整理出一份书单，规划一下学习路线&lt;/li&gt;
+&lt;li&gt;文中罗列的书单皆为必学，完整书单见思维导图&lt;/li&gt;
 &lt;li&gt;学习计算机编程，任重而道远，加油，奥里给！
     
     </summary>
@@ -67,7 +38,7 @@
     
       <category term="学习路线" scheme="http://bonneaucode.cn/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
     
-      <category term="自学编程" scheme="http://bonneaucode.cn/tags/%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B/"/>
+      <category term="自学" scheme="http://bonneaucode.cn/tags/%E8%87%AA%E5%AD%A6/"/>
     
   </entry>
   
