@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bonneaucode.cn/"/>
-  <updated>2020-04-13T12:42:00.225Z</updated>
+  <updated>2020-04-14T02:21:58.043Z</updated>
   <id>http://bonneaucode.cn/</id>
   
   <author>
@@ -21,14 +21,20 @@
     <link href="http://bonneaucode.cn/2020/04/13/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/"/>
     <id>http://bonneaucode.cn/2020/04/13/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</id>
     <published>2020-04-13T09:47:31.000Z</published>
-    <updated>2020-04-13T12:42:00.225Z</updated>
+    <updated>2020-04-14T02:21:58.043Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;基础阶段（4月-6月）&quot;&gt;&lt;a href=&quot;#基础阶段（4月-6月）&quot; class=&quot;headerlink&quot; title=&quot;基础阶段（4月-6月）&quot;&gt;&lt;/a&gt;基础阶段（4月-6月）&lt;/h1&gt;&lt;h2 id=&quot;数学二&quot;&gt;&lt;a href=&quot;#数学二&quot; class=&quot;headerlink&quot; title=&quot;数学二&quot;&gt;&lt;/a&gt;数学二&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;李正元全书高数部分 &lt;ul&gt;
-&lt;li&gt;第一遍：复习知识点、做例题&lt;/li&gt;
-&lt;li&gt;第二遍：攻克难点、做习题
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;思来想去专业课还是准备考408&lt;ul&gt;
+&lt;li&gt;这四门课对于学习计算机来说太重要了&lt;/li&gt;
+&lt;li&gt;408是统考科目，资料众多，招生学校比较多&lt;/li&gt;
+&lt;li&gt;408难度较大，报的人相比其他专业课人少点&lt;/li&gt;
+&lt;li&gt;这几年好多学校临时改考408&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
     
     </summary>
     
@@ -45,15 +51,13 @@
     <link href="http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
     <id>http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</id>
     <published>2020-04-12T07:00:00.000Z</published>
-    <updated>2020-04-13T11:31:52.414Z</updated>
+    <updated>2020-04-14T01:22:00.495Z</updated>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;一、编程语言基础&quot;&gt;&lt;a href=&quot;#一、编程语言基础&quot; class=&quot;headerlink&quot; title=&quot;一、编程语言基础&quot;&gt;&lt;/a&gt;一、编程语言基础&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;《C Primer Plus》&lt;/li&gt;
-&lt;li&gt;《C++ Primer Plus》&lt;/li&gt;
-&lt;li&gt;《Java 核心编程》&lt;/li&gt;
-&lt;li&gt;《Python 核心编程》
+      &lt;h5 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;看了羊哥的视频，整理出一份书单，规划好了自己的学习路线&lt;/li&gt;
+&lt;li&gt;学习计算机编程，任重而道远，加油，奥里给！
     
     </summary>
     
