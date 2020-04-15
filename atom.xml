@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bonneaucode.cn/"/>
-  <updated>2020-04-14T23:35:26.595Z</updated>
+  <updated>2020-04-15T14:04:58.502Z</updated>
   <id>http://bonneaucode.cn/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>计算机初学者学习路线</title>
-    <link href="http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
-    <id>http://bonneaucode.cn/2020/04/12/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</id>
-    <published>2020-04-12T07:00:00.000Z</published>
-    <updated>2020-04-14T23:35:26.595Z</updated>
+    <link href="http://bonneaucode.cn/2020/04/15/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+    <id>http://bonneaucode.cn/2020/04/15/%E5%88%9D%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</id>
+    <published>2020-04-15T13:00:00.000Z</published>
+    <updated>2020-04-15T14:04:58.502Z</updated>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;看了羊哥的视频，整理出一份书单，规划一下学习路线&lt;/li&gt;
-&lt;li&gt;文中罗列的书单皆为必学，完整书单见思维导图&lt;/li&gt;
-&lt;li&gt;学习计算机编程，任重而道远，加油，奥里给！
+      &lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;看了羊哥的视频，整理出一份学习书单，规划一下学习路线&lt;/li&gt;
+&lt;li&gt;正文罗列的书皆为必学，拓展提升见思维导图&lt;/li&gt;
+&lt;li&gt;目前还是以考研为主，学习计算机编程，任重而道远，加油！
     
     </summary>
     
@@ -36,9 +36,34 @@
       <category term="学习" scheme="http://bonneaucode.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="学习路线" scheme="http://bonneaucode.cn/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+      <category term="自学" scheme="http://bonneaucode.cn/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+      <category term="编程" scheme="http://bonneaucode.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研复习规划</title>
+    <link href="http://bonneaucode.cn/2020/04/15/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/"/>
+    <id>http://bonneaucode.cn/2020/04/15/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</id>
+    <published>2020-04-15T01:00:00.000Z</published>
+    <updated>2020-04-15T14:09:58.880Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;前言：写给未来的自己—BonneauCode&quot;&gt;&lt;a href=&quot;#前言：写给未来的自己—BonneauCode&quot; class=&quot;headerlink&quot; title=&quot;前言：写给未来的自己—BonneauCode&quot;&gt;&lt;/a&gt;前言：写给未来的自己—BonneauCode&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;未来的我： 暂且就这么称呼你吧！你现在看到的是一年前的你写给你自己的信，一年前你在4月15号下定决心要考这个学校。 我不知道自己是否被录取，但我一定会坚持下去，去拼搏。即使没有人相信我会考上那个大学，但我仍坚信我会成功。大学这四年就这样碌碌无为的过去了，我不想未来的你仍碌碌无为。曾经迷茫，无助，不知道该如何去做。但至少我现在可以每天早起去背最不喜欢的英语单词，每天所有的空闲时间都是在复习。我感觉很充实，我始终相信天道酬勤。我希望明年这个时间在看这篇博文的你，能笑嘻嘻地憧憬研究生的生活，那样我就满足了！&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="考研" scheme="http://bonneaucode.cn/categories/%E8%80%83%E7%A0%94/"/>
+    
     
       <category term="自学" scheme="http://bonneaucode.cn/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+      <category term="考研" scheme="http://bonneaucode.cn/tags/%E8%80%83%E7%A0%94/"/>
     
   </entry>
   
