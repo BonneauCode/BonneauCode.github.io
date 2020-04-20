@@ -1,31 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>考研复习规划（持续更新）</title>
-    <url>/2020/04/15/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</url>
-    <content><![CDATA[<h3 id="前言：写给未来的自己—BonneauCode"><a href="#前言：写给未来的自己—BonneauCode" class="headerlink" title="前言：写给未来的自己—BonneauCode"></a>前言：写给未来的自己—BonneauCode</h3><blockquote>
-<p>未来的我： 这是我罗列出的计划，你完成了吗？（ ）<br><br>A、完成了？那还不错,继续加油，还有很长的路要走！<br><br>B、没完成？这可不行，这能考上？你想多了！</p>
-</blockquote>
-<a id="more"></a>
+    <title>基于hexo搭建个人博客-建站篇（win10）</title>
+    <url>/2020/04/20/%E5%9F%BA%E4%BA%8Ehexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99%E7%AF%87%EF%BC%88win10%EF%BC%89/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h3><p>我觉得，搭建属于自己的博客，很有必要。博客对考研复试、找工作面试等方面加成非常大。有人说博客已经过时了，但是我发现很多优质的资料都出自个人博客，这些博客都记录了博主遇到的问题和解决办法，还有自己的心得体会，这些都是宝贵的资源。正如某博主所说”对任何渴望进步的人来说，写博客/文章/回答对自己的成长帮助都是巨大的。频率和数量不必过分强求，有话要说就写写，没事就歇歇，随意点。因为坚持写作的那一刻起，你就已经开始受益。”搭建博客花了好几天，期间踩坑无数，遂记录下来以供后来者参考。</p>
 <hr>
-<h3 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h3><h4 id="数二"><a href="#数二" class="headerlink" title="数二"></a>数二</h4><ul>
-<li>李永乐线性代数讲义</li>
-</ul>
-<h4 id="408"><a href="#408" class="headerlink" title="408"></a>408</h4><ul>
-<li>C Primer Plus</li>
-<li>天勤数据结构（C基础篇）</li>
-</ul>
-<h4 id="英二"><a href="#英二" class="headerlink" title="英二"></a>英二</h4><ul>
-<li>红宝书app（必考词）</li>
-</ul>
-<h4 id="作息时间表"><a href="#作息时间表" class="headerlink" title="作息时间表"></a>作息时间表</h4><p><img src="https://i.loli.net/2020/04/19/FaunTt6OxWyP1wg.png" alt="四月.png"></p>
+<h3 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h3><h4 id="1、下载安装node-js-https-nodejs-org-en"><a href="#1、下载安装node-js-https-nodejs-org-en" class="headerlink" title="1、下载安装node.js https://nodejs.org/en/"></a>1、下载安装<code>node.js</code> <a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a></h4><blockquote>
+<p>下载左边红色箭头标记的版本即可(下同)</p>
+</blockquote>
+<div align="center">
+<img src="1.png"width = 500 height = 300/>
+</div>
+
+<h5 id="键盘win-r，弹出运行框输入cmd，进入如下界面，分别输入node-v和npm-v，回车，显示版本号说明安装成功"><a href="#键盘win-r，弹出运行框输入cmd，进入如下界面，分别输入node-v和npm-v，回车，显示版本号说明安装成功" class="headerlink" title="键盘win+r，弹出运行框输入cmd，进入如下界面，分别输入node -v和npm -v，回车，显示版本号说明安装成功"></a>键盘<code>win+r</code>，弹出运行框输入<code>cmd</code>，进入如下界面，分别输入<code>node -v</code>和<code>npm -v</code>，回车，显示版本号说明安装成功</h5><div align="center">
+<img src="2.png"width = 500 height = 150/>
+</div>
+
+<hr>
+<h4 id="2、下载安装git-https-git-scm-com-downloads"><a href="#2、下载安装git-https-git-scm-com-downloads" class="headerlink" title="2、下载安装git https://git-scm.com/downloads"></a>2、下载安装<code>git</code> <a href="https://git-scm.com/downloads" target="_blank" rel="noopener">https://git-scm.com/downloads</a></h4><div align="center">
+<img src="3.png"width = 500 height = 300/>
+</div>
+
+<h5 id="安装后桌面右键会出现下图"><a href="#安装后桌面右键会出现下图" class="headerlink" title="安装后桌面右键会出现下图"></a>安装后桌面右键会出现下图</h5><div align="center">
+<img src="4.png"width = 200 height = 300/>
+</div>
+
+<h5 id="git安装成功后需要配置邮箱、姓名和SSH密钥，网上有很多教程，在此不展开描述了，想要了解更多，详见廖雪峰git教程-https-www-liaoxuefeng-com"><a href="#git安装成功后需要配置邮箱、姓名和SSH密钥，网上有很多教程，在此不展开描述了，想要了解更多，详见廖雪峰git教程-https-www-liaoxuefeng-com" class="headerlink" title="git安装成功后需要配置邮箱、姓名和SSH密钥，网上有很多教程，在此不展开描述了，想要了解更多，详见廖雪峰git教程 https://www.liaoxuefeng.com/"></a>git安装成功后需要配置邮箱、姓名和SSH密钥，网上有很多教程，在此不展开描述了，想要了解更多，详见廖雪峰git教程 <a href="https://www.liaoxuefeng.com/" target="_blank" rel="noopener">https://www.liaoxuefeng.com/</a></h5><hr>
+<h4 id="3、注册github-https-github-com"><a href="#3、注册github-https-github-com" class="headerlink" title="3、注册github https://github.com/"></a>3、注册github <a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a></h4><h5 id="1-注册后直接登录"><a href="#1-注册后直接登录" class="headerlink" title="(1) 注册后直接登录"></a>(1) 注册后直接登录</h5><div align="center">
+<img src="5.png"width = 500 height = 400/>
+</div>
+
+<h5 id="2-新建一个仓库"><a href="#2-新建一个仓库" class="headerlink" title="(2) 新建一个仓库"></a>(2) 新建一个仓库</h5><div align="center">
+<img src="6.png"width = 500 height = 400/>
+</div>
+
+<h5 id="3-创建仓库名：用户名小写-github-io，这就是博客创建成功后的访问地址，现在还不能用，创建好先放在这里。"><a href="#3-创建仓库名：用户名小写-github-io，这就是博客创建成功后的访问地址，现在还不能用，创建好先放在这里。" class="headerlink" title="(3) 创建仓库名：用户名小写.github.io，这就是博客创建成功后的访问地址，现在还不能用，创建好先放在这里。"></a>(3) 创建仓库名：用户名小写.github.io，这就是博客创建成功后的访问地址，现在还不能用，创建好先放在这里。</h5><div align="center">
+<img src="7.png"width = 500 height = 400/>
+</div>
+
+<hr>
+<h3 id="二、安装hexo"><a href="#二、安装hexo" class="headerlink" title="二、安装hexo"></a><strong>二、安装hexo</strong></h3><h4 id="1、cmd进入运行，输入下方代码利用淘宝镜像安装cnpm，等几分钟-完成后用cnpm-v检查是否安装完成"><a href="#1、cmd进入运行，输入下方代码利用淘宝镜像安装cnpm，等几分钟-完成后用cnpm-v检查是否安装完成" class="headerlink" title="1、cmd进入运行，输入下方代码利用淘宝镜像安装cnpm，等几分钟,完成后用cnpm -v检查是否安装完成"></a>1、cmd进入运行，输入下方代码利用淘宝镜像安装cnpm，等几分钟,完成后用<code>cnpm -v</code>检查是否安装完成</h4><p><code>npm install -g cnpm --registy=http://registry.npm.taobao.org</code></p>
+<div align="center">
+<img src="8.png"width = 600 height = 100/>
+</div>
+
+<div align="center">
+<img src="9.png"width = 600 height = 100/>
+</div>
+
+<h4 id="2、输入下方代码正式安装hexo-完成后用hexo-v检查是否安装完成"><a href="#2、输入下方代码正式安装hexo-完成后用hexo-v检查是否安装完成" class="headerlink" title="2、输入下方代码正式安装hexo,完成后用hexo -v检查是否安装完成"></a>2、输入下方代码正式安装hexo,完成后用<code>hexo -v</code>检查是否安装完成</h4><p><code>cnpm install -g hexo-cli</code></p>
+<div align="center">
+<img src="10.png"width = 300 height = 500/>
+</div>
+
+
+
+<h4 id="3、自己挑一个盘-比如G盘-，命令行输入G-，再输入mkdir-blog，打开G盘发现多了一个blog文件夹，回到命令行输入cd-blog进入blog目录，输入代码hexo-init，等几分钟"><a href="#3、自己挑一个盘-比如G盘-，命令行输入G-，再输入mkdir-blog，打开G盘发现多了一个blog文件夹，回到命令行输入cd-blog进入blog目录，输入代码hexo-init，等几分钟" class="headerlink" title="3、自己挑一个盘(比如G盘)，命令行输入G:，再输入mkdir blog，打开G盘发现多了一个blog文件夹，回到命令行输入cd blog进入blog目录，输入代码hexo init，等几分钟"></a>3、自己挑一个盘(比如G盘)，命令行输入<code>G:</code>，再输入<code>mkdir blog</code>，打开G盘发现多了一个blog文件夹，回到命令行输入<code>cd blog</code>进入blog目录，输入代码<code>hexo init</code>，等几分钟</h4><div align="center">
+<img src="11.png"width = 600 height = 200/>
+</div>
+
+<blockquote>
+<p>这里git必须是配置好邮箱和用户名，否则无法执行<code>hexo init</code></p>
+</blockquote>
+<h5 id="下图说明本地hexo博客已经生成"><a href="#下图说明本地hexo博客已经生成" class="headerlink" title="下图说明本地hexo博客已经生成"></a>下图说明本地hexo博客已经生成</h5><div align="center">
+<img src="12.png"width = 600 height = 100/>
+</div>
+
+<h4 id="4、输入hexo-s，复制生成的地址转到浏览器粘贴打开，即可预览博客"><a href="#4、输入hexo-s，复制生成的地址转到浏览器粘贴打开，即可预览博客" class="headerlink" title="4、输入hexo s，复制生成的地址转到浏览器粘贴打开，即可预览博客"></a>4、输入<code>hexo s</code>，复制生成的地址转到浏览器粘贴打开，即可预览博客</h4><div align="center">
+<img src="13.png"width = 600 height = 100/>
+</div>
+
+<hr>
+<h3 id="三、部署"><a href="#三、部署" class="headerlink" title="三、部署"></a><strong>三、部署</strong></h3><h4 id="1、命令行输入cd-blog进入blog文件夹，输入下方代码"><a href="#1、命令行输入cd-blog进入blog文件夹，输入下方代码" class="headerlink" title="1、命令行输入cd blog进入blog文件夹，输入下方代码"></a>1、命令行输入cd blog进入blog文件夹，输入下方代码</h4><p><code>cnpm install --save hexo-deployer-git</code></p>
+<h4 id="2、去硬盘打开blog文件夹，找到-config文件，用记事本或者其他编辑器打开，找到-Deployment按照下面格式输入，repo要填准备时自己新建仓库的地址"><a href="#2、去硬盘打开blog文件夹，找到-config文件，用记事本或者其他编辑器打开，找到-Deployment按照下面格式输入，repo要填准备时自己新建仓库的地址" class="headerlink" title="2、去硬盘打开blog文件夹，找到_config文件，用记事本或者其他编辑器打开，找到#Deployment按照下面格式输入，repo要填准备时自己新建仓库的地址"></a>2、去硬盘打开blog文件夹，找到_config文件，用记事本或者其他编辑器打开，找到#Deployment按照下面格式输入，repo要填准备时自己新建仓库的地址</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Deployment</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: https:&#x2F;&#x2F;github.com&#x2F;BonneauCode&#x2F;bonneaucode.github.io</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<h4 id="3、命令行输入hexo-d将博客部署到GitHub仓库，部署时可能要输入github用户名和密码，密码输入时是看不见的，部署完成后浏览器输入自己的用户名小写-github-io并刷新，即可看见搭建的个人博客啦"><a href="#3、命令行输入hexo-d将博客部署到GitHub仓库，部署时可能要输入github用户名和密码，密码输入时是看不见的，部署完成后浏览器输入自己的用户名小写-github-io并刷新，即可看见搭建的个人博客啦" class="headerlink" title="3、命令行输入hexo d将博客部署到GitHub仓库，部署时可能要输入github用户名和密码，密码输入时是看不见的，部署完成后浏览器输入自己的用户名小写.github.io并刷新，即可看见搭建的个人博客啦"></a>3、命令行输入<code>hexo d</code>将博客部署到GitHub仓库，部署时可能要输入github用户名和密码，密码输入时是看不见的，部署完成后浏览器输入自己的<code>用户名小写.github.io</code>并刷新，即可看见搭建的个人博客啦</h4><hr>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a><strong>参考链接</strong></h3><p>bilibili：<a href="https://www.bilibili.com/video/BV1Yb411a7ty" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Yb411a7ty</a></p>
 ]]></content>
       <categories>
-        <category>考研</category>
+        <category>博客</category>
       </categories>
       <tags>
-        <tag>时间表</tag>
-        <tag>计划</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+        <tag>node.js</tag>
+        <tag>git</tag>
       </tags>
   </entry>
 </search>

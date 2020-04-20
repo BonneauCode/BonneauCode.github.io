@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bonneaucode.cn/"/>
-  <updated>2020-04-19T09:50:26.571Z</updated>
+  <updated>2020-04-20T14:21:55.722Z</updated>
   <id>http://bonneaucode.cn/</id>
   
   <author>
@@ -17,27 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>考研复习规划（持续更新）</title>
-    <link href="http://bonneaucode.cn/2020/04/15/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/"/>
-    <id>http://bonneaucode.cn/2020/04/15/%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E8%A7%84%E5%88%92/</id>
-    <published>2020-04-15T01:00:00.000Z</published>
-    <updated>2020-04-19T09:50:26.571Z</updated>
+    <title>基于hexo搭建个人博客-建站篇（win10）</title>
+    <link href="http://bonneaucode.cn/2020/04/20/%E5%9F%BA%E4%BA%8Ehexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99%E7%AF%87%EF%BC%88win10%EF%BC%89/"/>
+    <id>http://bonneaucode.cn/2020/04/20/%E5%9F%BA%E4%BA%8Ehexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99%E7%AF%87%EF%BC%88win10%EF%BC%89/</id>
+    <published>2020-04-20T08:38:00.000Z</published>
+    <updated>2020-04-20T14:21:55.722Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;前言：写给未来的自己—BonneauCode&quot;&gt;&lt;a href=&quot;#前言：写给未来的自己—BonneauCode&quot; class=&quot;headerlink&quot; title=&quot;前言：写给未来的自己—BonneauCode&quot;&gt;&lt;/a&gt;前言：写给未来的自己—BonneauCode&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;未来的我： 这是我罗列出的计划，你完成了吗？（ ）&lt;br&gt;&lt;br&gt;A、完成了？那还不错,继续加油，还有很长的路要走！&lt;br&gt;&lt;br&gt;B、没完成？这可不行，这能考上？你想多了！&lt;/p&gt;
-&lt;/blockquote&gt;
+      
+      
+        
+        
+          &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
     
-      <category term="考研" scheme="http://bonneaucode.cn/categories/%E8%80%83%E7%A0%94/"/>
+      <category term="博客" scheme="http://bonneaucode.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="时间表" scheme="http://bonneaucode.cn/tags/%E6%97%B6%E9%97%B4%E8%A1%A8/"/>
+      <category term="hexo" scheme="http://bonneaucode.cn/tags/hexo/"/>
     
-      <category term="计划" scheme="http://bonneaucode.cn/tags/%E8%AE%A1%E5%88%92/"/>
+      <category term="github" scheme="http://bonneaucode.cn/tags/github/"/>
+    
+      <category term="node.js" scheme="http://bonneaucode.cn/tags/node-js/"/>
+    
+      <category term="git" scheme="http://bonneaucode.cn/tags/git/"/>
     
   </entry>
   
