@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bonneaucode.cn/"/>
-  <updated>2020-04-20T15:01:56.277Z</updated>
+  <updated>2020-04-21T00:21:13.000Z</updated>
   <id>http://bonneaucode.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://bonneaucode.cn/2020/04/20/%E5%9F%BA%E4%BA%8Ehexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99%E7%AF%87%EF%BC%88win10%EF%BC%89/"/>
     <id>http://bonneaucode.cn/2020/04/20/%E5%9F%BA%E4%BA%8Ehexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99%E7%AF%87%EF%BC%88win10%EF%BC%89/</id>
     <published>2020-04-20T08:38:00.000Z</published>
-    <updated>2020-04-20T15:01:56.277Z</updated>
+    <updated>2020-04-21T00:21:13.000Z</updated>
     
     <summary type="html">
     
@@ -30,12 +30,8 @@
     </summary>
     
     
-      <category term="博客" scheme="http://bonneaucode.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="hexo" scheme="http://bonneaucode.cn/categories/hexo/"/>
     
-    
-      <category term="hexo" scheme="http://bonneaucode.cn/tags/hexo/"/>
-    
-      <category term="github" scheme="http://bonneaucode.cn/tags/github/"/>
     
       <category term="node.js" scheme="http://bonneaucode.cn/tags/node-js/"/>
     
